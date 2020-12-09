@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Currently working on perfecting bookmate.com 's backend
+Currently working on perfecting bookmate.com 's backend and learning Clojure!
 
-![image](https://d3n32ilufxuvd1.cloudfront.net/56edb16c537673693e01d5b9/693896/upload-cb3973f0-e49c-11e6-8920-7b92241a2ff8.png)
+![image](https://vanguardassets.bmstatic.com/assets/about/press/assets/bookmate_vertical.png?v1)
 <!--
 **d3mash/d3mash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
