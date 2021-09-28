@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working on perfecting sbermarket.ru 's backend
+Currently working on perfecting bookmate.com 's backend
 
 <!--
 **d3mash/d3mash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
